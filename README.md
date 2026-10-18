@@ -41,3 +41,7 @@ page in the browser. The banner's ✕ hides it until the next version comes out.
 ## Variants
 
 Both are a single `BrowserProfileSelector.exe`; no installer.
+
+## Downloads
+
+[Release](https://github.com/officepuma/browser-profile-selector-installers/releases)
