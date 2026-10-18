@@ -6,6 +6,10 @@ Lives in the system tray (a menu with one entry per profile) and has a launcher 
 
 Built with .NET 10 and Avalonia 11. Works on Windows; macOS and Linux paths are implemented but untested.
 
+## UI
+
+![Main Window](readme-assets/main-window.png)
+
 ## Use
 
 - Click a tile (or a tray menu entry) to open the browser with that profile.
