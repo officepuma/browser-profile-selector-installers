@@ -6,16 +6,21 @@ Lives in the system tray (a menu with one entry per profile) and has a launcher 
 
 Built with .NET 10 and Avalonia 11. Works on Windows; macOS and Linux paths are implemented but untested.
 
-## UI
+## UI - Main Window
 
 ![Main Window](readme-assets/main-window.jfif)
 
+## UI - Tray menu
+
+![Main Window](readme-assets/tray-menu.png)
+
 ## Use
 
-- Click a tile (or a tray menu entry) to open the browser with that profile.
+- Click a tile to open the browser with that profile.
 - Type to filter, **Enter** opens the first match, **Esc** hides the window.
 - Closing the window keeps the app in the tray; use tray **Exit** to quit.
 - Start with `--tray` to start hidden in the tray.
+- Rightclick on tray icon opens a menu with all profiles.
 
 ## License
 
@@ -40,7 +45,7 @@ page in the browser. The banner's ✕ hides it until the next version comes out.
 
 ## Variants
 
-Both are a single `BrowserProfileSelector.exe`; no installer.
+All are a single `BrowserProfileSelector.exe`; no installer.
 
 ## Downloads
 
