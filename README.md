@@ -8,7 +8,7 @@ Built with .NET 10 and Avalonia 11. Works on Windows; macOS and Linux paths are 
 
 ## UI
 
-![Main Window](readme-assets/main-window.png)
+![Main Window](readme-assets/main-window.jfif)
 
 ## Use
 
