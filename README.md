@@ -34,8 +34,20 @@ vendor. All product names and trademarks are the property of their respective ow
 
 ## Languages
 
+- Chinese
+- Danish
+- Dutch
 - English
 - German
+- French
+- Hindi
+- Italian
+- Korean
+- Polnish
+- Spanish
+- Swedish
+- Turkisch
+- Vietnamese
 
 ## Updates
 
