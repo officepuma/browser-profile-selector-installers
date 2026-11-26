@@ -6,13 +6,36 @@ Lives in the system tray (a menu with one entry per profile) and has a launcher 
 
 Built with .NET 10 and Avalonia 11. Works on Windows; macOS and Linux paths are implemented but untested.
 
-## UI - Main Window
+## UI
 
-![Main Window](readme-assets/main-window.jfif)
+### Main Window
 
-## UI - Tray menu
+This is the main window. It shows all your profiles for Edge and Chrome ordered by name.
 
-![Main Window](readme-assets/tray-menu.png)
+![Main Window](readme-assets/main-window.png)
+
+### Startup Page
+
+For each profile you can define a startup page.
+
+![Startup Page](readme-assets/startup-page.png)
+
+### Tray menu
+
+When you close the main window Browser Profile Selector still lives in the tray. - With a left click you can open the main window. - With a right click you can open the tray menu and select one of the options.
+
+![Tray Menu](readme-assets/tray-menu.png)
+
+### Settings
+
+There are multiple settings you can tweek.
+
+- Define a keyboard shortcut to open the main menu. Handy to start quickly.
+- Select a default language for your UI.
+- Choose if want to start the app when OS starts.
+- Choose if want to have a tray icon.
+
+![Settings Page](readme-assets/settings-page.png)
 
 ## Use
 
@@ -46,7 +69,7 @@ vendor. All product names and trademarks are the property of their respective ow
 - Polnish
 - Spanish
 - Swedish
-- Turkisch
+- Turkish
 - Vietnamese
 
 ## Updates
